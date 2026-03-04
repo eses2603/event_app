@@ -37,4 +37,4 @@ A modern, full-featured admin dashboard built with React, featuring comprehensiv
 
 [GIF part2 here 🎥 ]
 
-![](event1.gif)
+![](event2.gif)
