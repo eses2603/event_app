@@ -32,9 +32,9 @@ A modern, full-featured admin dashboard built with React, featuring comprehensiv
 
 ## Demo
 
-[GIF part1 here 🎥 ]
+🎥 part1
 ![](event1.gif)
 
-[GIF part2 here 🎥 ]
+🎥 part2
 
 ![](event2.gif)
